@@ -6,7 +6,7 @@
 %define _disable_ld_no_undefined 1
 
 Name: librdkafka
-Version: 2.5.3
+Version: 2.6.0
 Release: 1
 Source0: https://github.com/confluentinc/librdkafka/archive/refs/tags/v%{version}.tar.gz
 Summary: C library implementing the Apache Kafka protocol
